@@ -1,5 +1,5 @@
 # 💫 About Me:
-⭐ Currently working on Tegera<br>📗 | I'm currently learning Node.js<br>🤝 | I'm looking for help with Tegera<br>⚡ Tegera is launching in 2025
+⭐ | Currently working on Tegera<br>📗 | I'm currently learning Node.js<br>🤝 | I'm looking for help with Tegera<br>⚡ Tegera is launching in 2025
 
 
 ## 🌐 Socials:
